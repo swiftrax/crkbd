@@ -232,7 +232,7 @@ F 1 "SW_PUSH" H 6550 2645 50  0000 C CNN
 F 2 "MX_Only:MXOnly-1.5U-NoLED" H 6550 2725 50  0001 C CNN
 F 3 "" H 6550 2725 50  0000 C CNN
 	1    6550 2725
-	-1   0    0    -1  
+	1    0    0    -1  
 $EndComp
 $Comp
 L kbd:SW_PUSH SW19
@@ -701,7 +701,7 @@ F 1 "SW_PUSH" H 5350 5945 50  0000 C CNN
 F 2 "MX_Only:MXOnly-1U-NoLED" H 5350 6025 50  0001 C CNN
 F 3 "" H 5350 6025 50  0000 C CNN
 	1    5350 6025
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L kbd:SW_PUSH SW42
