@@ -1144,7 +1144,7 @@ F 1 "BAV70" H 3900 2851 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 3900 2725 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 3900 2725 50  0001 C CNN
 	1    3900 2725
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	950  2225 950  1725
@@ -1229,7 +1229,7 @@ F 1 "BAV70" H 1850 4651 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 1850 4525 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 1850 4525 50  0001 C CNN
 	1    1850 4525
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Diode:BAV70 D15
@@ -1240,7 +1240,7 @@ F 1 "BAV70" H 1850 5151 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 1850 5025 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 1850 5025 50  0001 C CNN
 	1    1850 5025
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Diode:BAV70 D18
@@ -1251,7 +1251,7 @@ F 1 "BAV70" H 1850 5651 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 1850 5525 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 1850 5525 50  0001 C CNN
 	1    1850 5525
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Diode:BAV70 D13
@@ -1262,7 +1262,7 @@ F 1 "BAV70" H 3900 4651 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 3900 4525 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 3900 4525 50  0001 C CNN
 	1    3900 4525
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Diode:BAV70 D16
@@ -1273,7 +1273,7 @@ F 1 "BAV70" H 3900 5151 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 3900 5025 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 3900 5025 50  0001 C CNN
 	1    3900 5025
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Diode:BAV70 D19
@@ -1284,7 +1284,7 @@ F 1 "BAV70" H 3900 5651 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 3900 5525 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 3900 5525 50  0001 C CNN
 	1    3900 5525
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Diode:BAV70 D21
@@ -1307,7 +1307,7 @@ F 1 "BAV70" H 5950 4651 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 5950 4525 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 5950 4525 50  0001 C CNN
 	1    5950 4525
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Diode:BAV70 D17
@@ -1318,7 +1318,7 @@ F 1 "BAV70" H 5950 5151 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 5950 5025 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 5950 5025 50  0001 C CNN
 	1    5950 5025
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Diode:BAV70 D20
@@ -1329,7 +1329,7 @@ F 1 "BAV70" H 5950 5651 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 5950 5525 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 5950 5525 50  0001 C CNN
 	1    5950 5525
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Diode:BAV70 D22
@@ -1340,7 +1340,7 @@ F 1 "BAV70" H 5950 6151 50  0000 C CNN
 F 2 "Custom_Footprints:SOT-23_Annotated" H 5950 6025 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf" H 5950 6025 50  0001 C CNN
 	1    5950 6025
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	950  5525 950  5025
